@@ -1,0 +1,16 @@
+.button {
+    border:steelblue;
+    border-style: solid;
+    background-color: white;
+    border-width: 1px;
+    height: 50px;
+    width: 200px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+    border-radius: 12px;
+    
+}
+
+.button:focus{
+    background-color: lightyellow;
+}

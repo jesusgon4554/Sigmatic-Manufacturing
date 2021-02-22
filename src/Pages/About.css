@@ -1,0 +1,66 @@
+
+h1{
+    text-align: left;
+}
+
+
+#desc{
+    text-align: center;
+    font-size: 18px;
+}
+
+.img{
+    height: 200px;
+    width: 200px;
+    margin-left: 50px;
+}
+@media (min-width: 880px){
+    .Co-Founders{
+        width:500px;
+        float: left;
+        text-align: center;
+        margin-left: 150px;
+        
+    }
+
+}
+@media (min-width: 800px){
+    .Co-Founders{
+        width:500px;
+        float: left;
+        text-align: center;
+        margin-left: 150px;
+    }
+
+    h3{
+        text-align: center;
+    }
+}
+
+@media (width: 1024px){
+    .Co-Founders{
+        width:740px;
+        float: left;
+        text-align: center;
+        margin-left: 150px;
+    }
+
+    h3{
+        text-align: center;
+    }
+
+}
+@media (min-width: 1550px){
+    .Co-Founders{
+        width:1000px;
+        float: left;
+        text-align: center;
+        margin-left: 150px;
+    }
+
+    h3{
+        text-align:center;
+    }
+
+}
+
